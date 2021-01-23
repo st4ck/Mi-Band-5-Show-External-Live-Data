@@ -12,3 +12,6 @@ To show how it works I push every 30 seconds stock data from Amazon AWS through 
   <source src="https://cyberdynamic.eu/Mi-Band-5-Show-External-Live-Data/video.mp4" type="video/mp4">
   <a href="https://cyberdynamic.eu/Mi-Band-5-Show-External-Live-Data/video.mp4">Link to the video</a>
 </video>
+
+## Project
+I loaded the example called "Stocksplayer". Just import it in your Android Studio and try it
