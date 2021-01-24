@@ -1,5 +1,5 @@
 # Mi Band 5 - Show external live data through Music Player
-Project for Android using music player to transmit live data to the mi band and show to the screen in the player
+Project for Android using music player to transmit live data to the Mi Band and show them to screen in the band player
 
 ## Why
 Customizing (and unlocking) Mi Band 5 could not be so easy and there are so many reason you wouldn't do it, including continue to use Mi Fit application.
