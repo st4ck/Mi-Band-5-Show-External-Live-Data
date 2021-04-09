@@ -4,7 +4,7 @@ Project for Android using music player to transmit live data to the Mi Band and 
 ## Why
 Customizing (and unlocking) Mi Band 5 could not be so easy and there are so many reason you wouldn't do it, including continue to use Mi Fit application.
 
-For this reasong I created a sketch of a Music Player using Media Notifications. It's just a workaround but works smoothly in my case.
+For this reason I created a sketch of a Music Player using Media Notifications. It's just a workaround but works smoothly in my case.
 
 To show how it works I push every 30 seconds stock data from Amazon AWS through the player
 
